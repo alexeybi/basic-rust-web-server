@@ -1,0 +1,10 @@
+[package]
+name = "rust_server"
+version = "0.1.0"
+authors = ["alexeybi"]
+edition = "2018"
+
+[dependencies]
+num_cpus="1.13.0"
+log="0.4.11"
+scoped_threadpool="0.1.9"
